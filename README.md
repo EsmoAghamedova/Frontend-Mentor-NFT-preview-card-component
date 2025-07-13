@@ -11,15 +11,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements (image overlay, text color)
 
-### 🔍 Screenshot
-
-![Screenshot of the finished component](./images/screenshot.png)
-
-### 🔗 Links
-
-- Live Site URL: [Add your live URL here](https://your-live-site-link.com)
-- Solution URL: [Add your solution here](https://www.frontendmentor.io/solutions/your-solution-link)
-
 ---
 
 ## ⚙️ My Process
